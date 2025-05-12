@@ -4,7 +4,7 @@ particular pagination parameters
 """
 
 
-def index_range(page, page_size):
+def index_range(page: int, page_size: int) -> tuple:
     """Function to return a tuple containing a start index and an end index.
 
        Args:
