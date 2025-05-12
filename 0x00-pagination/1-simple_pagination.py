@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Module to implement simple pagination
 """
 
