@@ -1,3 +1,6 @@
+"""Module to implement simple pagination
+"""
+
 import csv
 import math
 from typing import List
